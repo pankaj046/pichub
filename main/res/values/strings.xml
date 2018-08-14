@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pichub</string>
+    <string name="Search">search</string>
+    <string name="views">Views</string>
+    <string name="likes">Likes</string>
+    <string name="download">Download</string>
+    <string name="refresh">Refresh</string>
+</resources>
